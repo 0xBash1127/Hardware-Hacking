@@ -23,3 +23,5 @@
 - Operating Temperature	0 ~ 40°C (32 ~ 104°F)
 - Storage Temperature	-20~70°C (-4~158°F)
 - Dimension / Weight	58 x 58 x 25mm / 40g
+
+> ⚠️ Lab-only research on personally-owned hardware. No unauthorized testing performed.
