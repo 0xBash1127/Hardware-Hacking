@@ -12,7 +12,7 @@
 
 ## Setting up our Putty session
 - From researching the device, we learn that the baud rate is `115200`. Let's use this information to set up a Putty session
-  - ![Putty Sesion](./.hidden_images/Putty_Session)
+  - ![Putty Sesion](./.hidden_images/Putty_Session.png)
 
 
 ## Booting into FAILSAFE mode
